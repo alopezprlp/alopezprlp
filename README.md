@@ -56,10 +56,19 @@ I'm Alex Lopez, a passionate Full Stack Web Developer with 5+ years of experienc
 
 ## 📈 Stats
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=alopezprlp&theme=radical" alt="alopezprlp" width="76%" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=alopezprlp&show_icons=true&theme=radical&include_all_commits=true" width=70%></img>
+
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=alopezprlp&theme=radical&layout=compact" width=70%></img>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedglez" width=70%></img>
 
 <br/>
-<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=alopezprlp.alopezprlp" alt="visitors"></div>
+![Profile views](https://gpvc.arturio.dev/alopezprlp)
+
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=alopezprlp" alt="visitors"/>
+</p>
 
 
 ## 🔗 Links

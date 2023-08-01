@@ -1,6 +1,3 @@
-![White Minimalist Profile LinkedIn Banner](https://media.licdn.com/dms/image/C4D16AQEEe1xIbutdLA/profile-displaybackgroundimage-shrink_350_1400/0/1645456951178?e=1687996800&v=beta&t=ehrSlCEVDhmBpmG_0hNVCD6Qf2e4mCEJngGCtHtBGUo)
-
-
 # Hello there! 👋
 
 ## 🚀 About Me
@@ -60,7 +57,7 @@ I'm Alex Lopez, a passionate Full Stack Web Developer with 5+ years of experienc
 
 <br/>
 
-![Profile views](https://gpvc.arturio.dev/alopezprlp)
+![](https://komarev.com/ghpvc/?username=alopezprlp)
 
 ## 🔗 Links
 
